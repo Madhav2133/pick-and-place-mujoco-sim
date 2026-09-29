@@ -1,6 +1,7 @@
 # Pick and Place with MuJoCo Sim
 
-![](./panda.png)
+[demo.webm](https://github.com/user-attachments/assets/eb642fad-b6b0-4bbd-9abd-b33bc34a7aef)
+
 
 ## Contents
 
